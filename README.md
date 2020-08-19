@@ -10,7 +10,7 @@
 
 
 <p align="center"><strong>VK Group:</strong><br><a href="https://vk.com/ilimanic_sw">Ilimanic Squad</a></p> 
-<p align="center"><img src="https://anjimo.github.io/images/ftnpc.png" alt=""></p>
+<p align="center"><img src="https://ilimanic.github.io/images/photo.png" alt=""></p>
 
 
 </body>
