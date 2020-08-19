@@ -1,4 +1,18 @@
+<!DOCTYPE html>
+<html>
 
+<head>
+  <meta charset="utf-8">
+  <title>Anji Games</title>
+  <style>
+   p {
+    margin-top: 0.5em; /* Отступ сверху */
+    margin-bottom: 1em; /* Отступ снизу */
+   }
+  </style>
+ </head>
+
+<body>
 <body>
 
 <h1 align="center">Ilimanic<br>Page<br><br></h1> 
